@@ -1,1 +1,7 @@
+# Marketing and Sales Dataset from a bike selling company
 
+**Dataset** is in one excel file, which holds 3 sheets - Customer details, Transaction details and Customer demographic details
+
+**Problem** - To find out right solutions and taget groups for new promotional sales 
+
+**Libraries** , we used in this project are- Pandas, NumPy, Matplotlib, Plotly, Geocoder and missingno
