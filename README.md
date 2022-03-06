@@ -8,3 +8,5 @@ This course contains:
 3. Datetime handling and split-apply-combine with pandas
 4. Statistics and exercises on visualizations
 5. Complex data problems with case studies
+
+![image](https://user-images.githubusercontent.com/63021714/156941729-8f7d9bfd-f9ef-4dd0-8b5d-579c49dd6ed3.png)
